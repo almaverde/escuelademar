@@ -1,6 +1,13 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
+@font-face{font-family:'Navigator';src:url('../fonts/Navigator.ttf');font-weight:normal;font-style:normal}
+@font-face{font-family:'SailorsRough';src:url('../fonts/SailorsRough.ttf');font-weight:normal;font-style:normal}
+@font-face{font-family:'Sailors';src:url('../fonts/Sailors.ttf');font-weight:normal;font-style:normal}
+
+
+
+
 /*
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
@@ -169,6 +176,7 @@ input, select, textarea {
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
+		font-family: "Sailors";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
