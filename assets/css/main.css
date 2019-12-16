@@ -81,6 +81,11 @@ input, select, textarea {
 
 /* Basic */
 
+	#logo {
+		width: 400px; height: 400px; margin-bottom: 30px;
+	}
+
+
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -1516,6 +1521,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
+
+			#logo {
+				width: 200px; height: 200px; margin-bottom: 10px;
+			}
 
 			.row {
 				display: flex;
