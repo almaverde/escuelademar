@@ -1,6 +1,6 @@
 # Sitio web de Escuela de Mar
 
-Público en: http://escuelademar.alma-verde.org/
+Público en: http://escuelademar.com.ar/
 
 
 ## Créditos
